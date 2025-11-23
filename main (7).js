@@ -6,7 +6,7 @@ maplibregl.addProtocol("pmtiles", protocol.tile);
 
 const map = new maplibregl.Map({
   container: "map",
-  center: [139.7024, 35.6598], // 中心座標
+  center: [138.731689, 35.361429], // 中心座標
   zoom: 16, // ズームレベル
   style: {
     // スタイル仕様のバージョン番号。8を指定する
